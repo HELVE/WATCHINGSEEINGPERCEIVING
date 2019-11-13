@@ -4,6 +4,14 @@
 # WATCHING SEEING PERCEIVING - VIDEO ART PROJECT
 Description.
 
+Watching Seeing Perceiving (2013) - film studying different approaches to the notion of perception. Story of a couple going through a qualitative change of the world. Define your way of seeing and you define yourself. Things you see around are you. It's your background conditioning. Do you break free of it or you go along with it? How donyou break free from it? By separating yourself from the world? By limiting your cognitive experience, by relying on different input methods?
+
+/
+
+Story about three friends deciding they will break free from the background conditioning. Each of them tries to do it in a different way.
+The days before they do their thing represent what they want and theories how it might work. They are entering a void together but separate.
+/ narrative feature length film
+
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
 Description.
