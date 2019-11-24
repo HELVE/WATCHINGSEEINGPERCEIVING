@@ -1,5 +1,7 @@
 ![Project Banner](/assets/template_visuals/temp-banner.png)
 
+![](helve-project-banner.png)
+
 <a name="intro"></a>
 # WATCHING SEEING PERCEIVING - VIDEO ART PROJECT
 Description.
